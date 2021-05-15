@@ -1,0 +1,6585 @@
+{
+ "name": "U45 Bengaluru BBMP",
+ "type": "private_channel",
+ "id": 1243933312,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2021-05-01T20:51:33",
+   "actor": "U45 Bengaluru BBMP",
+   "actor_id": "channel1243933312",
+   "action": "create_channel",
+   "title": "U45 Bengaluru BBMP",
+   "text": ""
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2021-05-01T23:35:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-45 group: \n1. Shanthinagar UPHC BLOCK 1 (East) - Pin: 560027.\n1 slots are available on May 02"
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2021-05-02T17:46:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. MANIPAL NORTHSIDE (West) - Pin: 560003.\n2 slots are available on May 03"
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2021-05-02T18:26:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020.\n95 slots are available on May 03"
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2021-05-02T19:34:07",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. Manipal Hospital Covaxin (East) - Pin: 560017. Vaccine: COVAXIN. \n66 slots are available on May 03"
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2021-05-02T21:24:20",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "I have increased the frequency at which the script checks your district to every minute. I understand that the slots are getting filled way too fast for you guys to go and book. Hence I am increasing the frequency. \nIf you have any better ideas/ suggestions, feel free to reach me at ",
+    {
+     "type": "mention",
+     "text": "@BertyThomas"
+    },
+    " (Twitter)"
+   ]
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2021-05-02T22:45:01",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. Manipal Hospital Covaxin (East) - Pin: 560017. Vaccine: COVAXIN. \n90 slots are available on May 03"
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2021-05-02T22:50:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 962,
+   "height": 202,
+   "text": "I think that got booked in like maybe 2 min tops :("
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2021-05-03T11:47:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. APOLLO MEDICAL CENTER P3 (Mahadevapura) - Pin: 560066. Vaccine: COVISHIELD. \n59 slots are available on May 04"
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2021-05-03T12:01:01",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. APOLLO MEDICAL CENTER P3 (Mahadevapura) - Pin: 560066. Vaccine: COVISHIELD. \n195 slots are available on May 05"
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2021-05-03T14:08:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. Sahakarnagar UPHC 1 (Yelahanka) - Pin: 560097. Vaccine: . \n45 slots are available on May 04"
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2021-05-03T14:34:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL 1 (Bommanahalli) - Pin: 560076. Vaccine: COVISHIELD. \n247 slots are available on May 04\n299 slots are available on May 05\n300 slots are available on May 06\n300 slots are available on May 07\n299 slots are available on May 08"
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2021-05-03T17:04:06",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. APOLLO MEDICAL CENTER P3 (Mahadevapura) - Pin: 560066. Vaccine: COVISHIELD. \n75 slots are available on May 05"
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2021-05-03T17:42:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Vaccination centers for 18-44 group: \n1. Manipal Clinic (South) - Pin: 560078. Vaccine: COVAXIN. \n66 slots are available on May 04"
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2021-05-03T20:34:49",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Guys, some of you mentioned that you don’t see the slots on CoWin even though you acted immediately on the alert. I can understand the frustration. Right now, there is a huge supply-demand mismatch, especially for Bengaluru and Mumbai. Consider this, there are over 6000 people just here in this group fighting for 66 slots. You know how that will end.\nSome of you have been successful (especially around that 2:34pm alert) when 1500 slots were opened and reached out to me to tell about it over Twitter. In case anyone has found any trick/ suggestion on how we can book the slot on CoWin faster or anything else, please let me know and I can share it in this group.\nFrom my side, I would want to try and help too. Yesterday I made the script run checks every minute. Tomorrow onwards I am planning to run it every 10sec, around that 10:30am-6:30pm mark when slots seem to be getting added to CoWin. I am not saying that will solve all the issues. But should give you a better chance.\nStay safe!\n",
+    {
+     "type": "mention",
+     "text": "@BertyThomas"
+    },
+    " (Twitter)"
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2021-05-03T20:37:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020. Vaccine: COVISHIELD. \n172 slots are available on May 04\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2021-05-03T20:43:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Cradle P3 (Mahadevapura) - Pin: 560037. Vaccine: COVISHIELD. \n100 slots are available on May 04\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2021-05-03T22:01:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. MANIPAL NORTHSIDE (West) - Pin: 560003. Vaccine: COVAXIN. \n33 slots are available on May 04\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2021-05-04T13:58:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Hi guys, surprisingly no alert was issued till now today. There was one guy who mentioned over twitter that there was some slot opened around 10-11 in the morning, but wasnt sure of the number of slots. The script doesnt alert if the slots are less than 10 (its pointless to do that).\nAnyways, based on previous couple of days, Apollo seem to add slots betweem 2-3pm. So lets see if that happens today as well.\nStay safe!"
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2021-05-04T14:51:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Cradle P3 (Mahadevapura) - Pin: 560037. Vaccine: COVISHIELD. \n186 slots are available on May 04\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2021-05-04T14:52:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Cradle P3 (Mahadevapura) - Pin: 560037. Vaccine: COVISHIELD. \n186 slots are available on May 04\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2021-05-04T15:00:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE - Koramangala (South) - Pin: 560030. Vaccine: COVISHIELD. \n100 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2021-05-04T15:01:01",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE - Koramangala (South) - Pin: 560030. Vaccine: COVISHIELD. \n100 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2021-05-04T16:53:42",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL 1 (Bommanahalli) - Pin: 560076. Vaccine: COVISHIELD. \n97 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2021-05-04T16:54:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL 1 (Bommanahalli) - Pin: 560076. Vaccine: COVISHIELD. \n97 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2021-05-04T17:01:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Clinic (South) - Pin: 560078. Vaccine: COVAXIN. \n98 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2021-05-04T17:02:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Clinic (South) - Pin: 560078. Vaccine: COVAXIN. \n98 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2021-05-04T17:06:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020. Vaccine: COVISHIELD. \n98 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2021-05-04T17:06:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020. Vaccine: COVISHIELD. \n98 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2021-05-04T17:14:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020. Vaccine: COVISHIELD. \n79 slots are available on May 08\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2021-05-04T17:14:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020. Vaccine: COVISHIELD. \n79 slots are available on May 08\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2021-05-04T19:11:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE HOSPITAL (South) - Pin: 560011. Vaccine: COVISHIELD. \n97 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2021-05-04T19:12:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE HOSPITAL (South) - Pin: 560011. Vaccine: COVISHIELD. \n97 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2021-05-04T19:45:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020. Vaccine: COVISHIELD. \n161 slots are available on May 10\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2021-05-04T19:45:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO HOSPITAL SHESHADRIPURAM (West) - Pin: 560020. Vaccine: COVISHIELD. \n161 slots are available on May 10\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2021-05-04T23:32:07",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO MEDICAL CENTER P3 (Mahadevapura) - Pin: 560066. Vaccine: COVISHIELD. \n39 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2021-05-05T00:05:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO MEDICAL CENTER P3 (Mahadevapura) - Pin: 560066. Vaccine: COVISHIELD. \n69 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2021-05-05T00:29:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Hospital Covaxin (East) - Pin: 560017. Vaccine: COVAXIN. \n82 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2021-05-05T06:07:01",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Hospital Covaxin (East) - Pin: 560017. Vaccine: COVAXIN. \n100 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2021-05-05T06:31:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. MANIPAL NORTHSIDE (West) - Pin: 560003. Vaccine: COVAXIN. \n68 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2021-05-05T06:59:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "People who are booking the slot for same day vaccination, please call and confirm the hospital/ vaccination center before you leave. I am getting information from people who booked for same day vaccination who got the appointment, only to be turned back at the centre being told there is no vaccine or even \"we uploaded the slots in CoWin by mistake\""
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2021-05-05T07:38:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Hospital-JAYANAGAR (South) - Pin: 560011. Vaccine: COVISHIELD. \n200 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2021-05-05T09:14:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Hospital Covaxin (East) - Pin: 560017. Vaccine: COVAXIN. \n87 slots are available on May 05\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2021-05-05T17:00:22",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Clinic (South) - Pin: 560078. Vaccine: COVAXIN. \n96 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2021-05-05T18:46:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE HOSPITAL (South) - Pin: 560011. Vaccine: COVISHIELD. \n98 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2021-05-05T18:46:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE HOSPITAL (South) - Pin: 560011. Vaccine: COVISHIELD. \n89 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2021-05-05T20:59:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Hospital Covaxin (East) - Pin: 560017. Vaccine: COVAXIN. \n99 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2021-05-05T20:59:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Manipal Hospital Covaxin (East) - Pin: 560017. Vaccine: COVAXIN. \n99 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2021-05-05T22:10:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Hi guys, couple of things to share:\n1. There is twitter thread I had put up for some good (success?) practices based on inputs from different subscribers of these channels who have successfully booked using these alerts. You can read and add on to them:\n",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BertyThomas/status/1389967391132635137"
+    },
+    "\n2. This is one important thing I want to check and I need your help. There has been an input from a member from this group that he is getting the notification late. As in, the Telegram timestamp says 8:59pm but the notification is delivered at 9:03. I want to understand if this is a widespread problem. This channel now has over 18k subscribers and I am not sure if that is a factor. To test this I am going to post a message here exactly at 10:15pm. Let me know when you are receiving it and if there is any delay. Please reply only on the below thread:\n",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BertyThomas/status/1389982987224186881"
+    },
+    "\nThank you.\nStay safe!"
+   ]
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2021-05-05T22:10:41",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Cradle P3 (Mahadevapura) - Pin: 560037. Vaccine: COVISHIELD. \n96 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2021-05-05T22:11:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Cradle P3 (Mahadevapura) - Pin: 560037. Vaccine: COVISHIELD. \n94 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2021-05-05T22:15:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Test message for the Telegram delivery test 😊"
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2021-05-05T22:20:16",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "reply_to_message_id": 53,
+   "text": "Thank you for the response. I think most you have replied saying you all got it bang on time (10:15)\nThe issue with slots being booked by then is a different problem altogether. \nThanks for the response."
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2021-05-06T00:58:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO MEDICAL CENTER P3 (Mahadevapura) - Pin: 560066. Vaccine: COVISHIELD. \n100 slots are available on May 07\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2021-05-06T06:30:07",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. MANIPAL NORTHSIDE CANARA UNIO (West) - Pin: 560003. Vaccine: COVAXIN. \n100 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2021-05-06T07:56:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Hospital-JAYANAGAR (South) - Pin: 560011. Vaccine: COVISHIELD. \n96 slots are available on May 06\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2021-05-06T09:28:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO MEDICAL CENTER P3 (Mahadevapura) - Pin: 560066. Vaccine: COVISHIELD. \n49 slots are available on May 07\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2021-05-06T15:40:35",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE - Koramangala (South) - Pin: 560030. Vaccine: COVISHIELD. \n100 slots are available on May 07\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2021-05-06T16:15:40",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Hi guys, there is an important announcement to share.\nThere has been some changes in the CoWIN API limits overnight and hence it is getting increasingly difficult to maintain this level of alerts. And Bengaluru requires really fast updates. \nWhile we have this channel, I have come across another programmer, based out of Bangalore, who is doing the same process, which is updating faster than what we had, but that was over Twitter (",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    },
+    "). We share a common goal of helping people get access to vaccines even when they are not very comfortable with technology and hence decided to team up instead of doing the same thing separately. From now on, the updates will come from him on this Channel. For any queries, please reach out to him (",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    },
+    "). For now he will be known only by this handle (even I do not know his name!). When the time is right, he will reveal his identity and make sure that you thank him for his service. \nI am planning to use my resources to reach out to smaller districts that have been requesting similar alert mechanisms. \nIt has been a pleasure serving you.\nGod bless & stay safe!"
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2021-05-06T16:20:44",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Hi everyone!"
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2021-05-06T16:53:36",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "Sorry, just to be clear. The alerts are going to be available BOTH over this Telegram channel AND the mentioned Twitter account simultaneously. 😊"
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2021-05-06T17:50:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Sorry guys, looks like the last alert from ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    },
+    " got missed to post in this Telegram channel. We should have confirmed the integration before stopping the previous script. For today, both the scripts will be running for Bengaluru. Once we confirm that it is all posting fine, we will stop the old one. Apologies."
+   ]
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2021-05-06T19:20:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at APOLLO HOSPITAL SHESHADRIPURAM(560020) on 7/5(100 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2021-05-06T19:20:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at APOLLO HOSPITAL SHESHADRIPURAM(560020) on 7/5(98 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2021-05-06T19:20:29",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at APOLLO HOSPITAL SHESHADRIPURAM(560020) on 7/5(47 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2021-05-06T19:20:31",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at APOLLO HOSPITAL SHESHADRIPURAM(560020) on 7/5(29 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2021-05-06T19:20:34",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at APOLLO HOSPITAL SHESHADRIPURAM(560020) on 7/5(4 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2021-05-06T20:07:08",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Cradle P3(560037) on 7/5(100 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2021-05-06T20:07:17",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Cradle P3(560037) on 7/5(86 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2021-05-06T20:07:19",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Cradle P3(560037) on 7/5(25 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2021-05-06T22:04:23",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(200 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2021-05-06T22:04:35",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(195 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2021-05-06T22:04:38",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(194 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2021-05-06T22:04:40",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(188 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2021-05-06T22:04:42",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(187 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2021-05-06T22:04:44",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(184 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2021-05-06T22:04:46",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(181 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2021-05-06T22:04:51",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(180 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2021-05-06T22:04:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(177 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2021-05-06T22:04:56",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(148 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2021-05-06T22:04:59",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(93 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2021-05-06T22:05:01",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(47 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2021-05-06T22:05:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Apollo Hospital-JAYANAGAR(560011) on 7/5(6 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2021-05-07T08:53:47",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(100 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2021-05-07T08:53:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(93 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2021-05-07T08:53:55",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(88 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2021-05-07T08:53:57",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(85 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2021-05-07T08:54:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(84 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2021-05-07T08:54:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(82 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2021-05-07T08:54:24",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(77 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2021-05-07T08:54:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccine appointment available for ages 18 and above in ",
+    {
+     "type": "hashtag",
+     "text": "#Karnataka"
+    },
+    ", ",
+    {
+     "type": "hashtag",
+     "text": "#BBMP"
+    },
+    " at Manipal Hospital Covaxin(560017) on 7/5(28 slots left). CoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nFollow us at ",
+    {
+     "type": "link",
+     "text": "https://twitter.com/BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2021-05-07T09:08:25",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561204\nBangalore Rural\nGundumgere Hosahalli PHC\n10 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2021-05-07T09:08:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561204\nBangalore Rural\nKonenahalli PHC\n10 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2021-05-07T09:08:27",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\nBangalore Rural\nDoddaballapura TH\n31 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2021-05-07T09:08:27",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\nBangalore Rural\nMelekote PHC\n9 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2021-05-07T09:08:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\nBangalore Rural\nGodlumuddenahalli PHC\n48 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2021-05-07T09:08:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\nBangalore Rural\nGodlumuddenahalli PHC\n47 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2021-05-07T09:08:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\nBangalore Rural\nDoddballapura UPHC\n40 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2021-05-07T09:11:42",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "I'm extremely sorry about the last few posts, I messed up while trying to make it faster, but it is fixed now, again extremely sorry!"
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2021-05-07T12:44:31",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2021-05-07T12:44:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2021-05-07T12:44:35",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2021-05-07T12:44:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2021-05-07T12:44:39",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2021-05-07T12:44:40",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2021-05-07T12:44:42",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2021-05-07T12:44:44",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2021-05-07T12:44:45",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2021-05-07T12:44:47",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2021-05-07T12:44:49",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2021-05-07T12:44:51",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2021-05-07T12:44:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n97 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2021-05-07T12:44:54",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n83 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2021-05-07T12:44:56",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n63 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2021-05-07T12:44:58",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n44 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2021-05-07T12:45:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560068\nBBMP\nKAVYA HOSPITAL\n25 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2021-05-07T13:11:54",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "poll": {
+    "question": "Hey! How many of you were able to get the slot even though it was cancelled?",
+    "closed": false,
+    "total_voters": 8897,
+    "answers": [
+     {
+      "text": "Got it",
+      "voters": 429,
+      "chosen": false
+     },
+     {
+      "text": "Did not get it",
+      "voters": 8468,
+      "chosen": true
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2021-05-07T19:58:35",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2021-05-07T19:58:35",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2021-05-07T19:58:36",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2021-05-07T19:58:36",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2021-05-07T19:58:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2021-05-07T19:58:40",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2021-05-07T19:58:41",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2021-05-07T19:58:41",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2021-05-07T19:58:41",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2021-05-07T19:58:42",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2021-05-07T19:58:46",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2021-05-07T19:58:46",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2021-05-07T19:58:46",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2021-05-07T19:58:47",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2021-05-07T19:58:48",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2021-05-07T19:58:51",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2021-05-07T19:58:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2021-05-07T19:58:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2021-05-07T19:58:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2021-05-07T19:58:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2021-05-07T19:59:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2021-05-07T19:59:38",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2021-05-07T19:59:38",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nRajajinagar UPHC\n1 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2021-05-07T20:48:23",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n200 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2021-05-07T20:48:54",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n198 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2021-05-07T20:48:55",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n196 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2021-05-07T20:48:58",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n195 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2021-05-07T20:48:58",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n192 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2021-05-07T20:48:59",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n190 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2021-05-07T20:49:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n187 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2021-05-07T20:49:02",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n181 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2021-05-08T08:54:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\nBBMP\nApollo Hospital-JAYANAGAR\n200 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2021-05-08T08:55:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\nBBMP\nApollo Hospital-JAYANAGAR\n62 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2021-05-08T09:00:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\nBBMP\nApollo Hospital-JAYANAGAR\n200 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2021-05-08T09:09:10",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560017\nBBMP\nManipal Hospital Covaxin\n100 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2021-05-08T18:57:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\nBBMP\nLEPROSY HOSPITAL 02\n100 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2021-05-08T18:57:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\nBBMP\nLEPROSY HOSPITAL 02\n100 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2021-05-08T19:11:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\nBBMP\nBowring Hospital Covi-s Vip-2\n50 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2021-05-08T19:11:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\nBBMP\nBowring Hospital Covi-s Vip-2\n50 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2021-05-08T23:16:14",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n150 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2021-05-08T23:16:16",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n150 slots available for 18 to 44 on 08-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2021-05-08T23:33:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n150 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2021-05-08T23:33:19",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n150 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2021-05-08T23:36:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2021-05-09T12:45:10",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560020\nBBMP\nAPOLLO HOSPITAL SHESHADRIPURAM\n100 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2021-05-09T15:28:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560022\nBBMP\nSUBEDARAPALYA UPHC\n50 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2021-05-09T15:49:43",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\nBBMP\nVASAVI HOSPITAL - COVAXIN\n100 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2021-05-09T16:03:34",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\nBBMP\nVASAVI HOSPITAL - COVAXIN\n100 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2021-05-09T16:06:34",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\nBBMP\nVASAVI HOSPITAL - COVAXIN\n100 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2021-05-09T17:00:10",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\nBBMP\nManipal Clinic\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2021-05-09T17:00:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\nBBMP\nManipal Clinic\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2021-05-09T17:25:49",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "poll": {
+    "question": "Did you get the slot for Manipal Clinic on 10-05-2021?",
+    "closed": false,
+    "total_voters": 10742,
+    "answers": [
+     {
+      "text": "Yes",
+      "voters": 181,
+      "chosen": false
+     },
+     {
+      "text": "Did not get OTP",
+      "voters": 1260,
+      "chosen": true
+     },
+     {
+      "text": "Could see but did not get",
+      "voters": 2555,
+      "chosen": false
+     },
+     {
+      "text": "Did not get",
+      "voters": 6746,
+      "chosen": false
+     }
+    ]
+   },
+   "text": ""
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2021-05-09T18:36:24",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\nBBMP\nVICTORIA\n50 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2021-05-09T18:37:20",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560018\nBBMP\nVanivillas Hospital 1\n50 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2021-05-09T18:38:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\nBBMP\nK C Gen Hospital\n50 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2021-05-09T18:39:46",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\nBBMP\nESIC HOSPITAL RAJAJINAGAR\n50 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2021-05-09T18:45:38",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\nBBMP\nK C Gen Hospital\n50 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2021-05-09T18:46:24",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\nBBMP\nK C Gen Hospital\n50 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2021-05-09T19:29:27",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562114\nBangalore Rural\nBoys Hihg School Hosakote TH\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2021-05-09T19:35:17",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\nBangalore Urban\nDCHC Leprosy Hospital\n150 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2021-05-09T19:43:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562157\nBangalore Urban\nYelahanka TH.\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2021-05-09T19:45:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562106\nBangalore Urban\nAnekal TH\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2021-05-09T19:48:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560036\nBangalore Urban\nGeneral Hospital K R Puram\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2021-05-09T19:50:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560029\nBangalore Urban\nNIMHANS Hospitals\n150 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "type": "message",
+   "date": "2021-05-09T20:48:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\nBangalore Rural\nDevanahalli TH COVIDSHIELD\n100 slots available for 18 to 44 on 09-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2021-05-09T20:48:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\n09-05-2021\nBangalore Rural\nDevanahalli TH COVIDSHIELD\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "type": "message",
+   "date": "2021-05-09T20:51:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\nBangalore Rural\nDevanahalli TH COVIDSHIELD\n100 slots available for 18 to 44 on 10-05-2021\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2021-05-09T22:56:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562111\n10-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "type": "message",
+   "date": "2021-05-10T06:05:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n10-05-2021\nBBMP\nJayanagar General Hospital 18\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2021-05-10T06:06:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n10-05-2021\nBBMP\nJayanagar General Hospital 18\n21 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "type": "message",
+   "date": "2021-05-10T06:06:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n10-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "type": "message",
+   "date": "2021-05-10T06:07:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n10-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "type": "message",
+   "date": "2021-05-10T06:07:54",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n10-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "type": "message",
+   "date": "2021-05-10T06:08:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n10-05-2021\nBBMP\nK C GH Nurshing School 18\n111 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "type": "message",
+   "date": "2021-05-10T06:10:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n10-05-2021\nBBMP\nVictoria Hospital New OPD\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "type": "message",
+   "date": "2021-05-10T07:06:57",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": "If anyone is facing delays with the notifications compared to my Twitter, this is because of how notifications work on your phone, so please download telegram on your computer and that should solve the issues."
+  },
+  {
+   "id": 204,
+   "type": "message",
+   "date": "2021-05-10T07:32:24",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\n10-05-2021\nBBMP\nApollo Hospital-JAYANAGAR\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "type": "message",
+   "date": "2021-05-10T09:27:56",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\n10-05-2021\nBangalore Rural\nDoddaballapura TH\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "type": "message",
+   "date": "2021-05-10T09:28:56",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\n10-05-2021\nBangalore Rural\nDoddaballapura TH\n30 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "type": "message",
+   "date": "2021-05-10T09:35:45",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\n10-05-2021\nBBMP\nESIC MC And Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "type": "message",
+   "date": "2021-05-10T09:51:59",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n10-05-2021\nBBMP\nC V Raman Hospital Block 2\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "type": "message",
+   "date": "2021-05-10T13:10:38",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n10-05-2021\nBangalore Rural\nNelamangala TH Covishield\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "type": "message",
+   "date": "2021-05-10T13:11:38",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n10-05-2021\nBangalore Rural\nNelamangala TH Covishield\n18 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "type": "message",
+   "date": "2021-05-10T17:00:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\n11-05-2021\nBBMP\nManipal Clinic\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "type": "message",
+   "date": "2021-05-10T17:03:25",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560060\n11-05-2021\nBBMP\nBGS GLENEAGLES GLOBAL HOSPITAL\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "type": "message",
+   "date": "2021-05-10T17:13:24",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560007\n10-05-2021\nBangalore Urban\nCOMMAND HOSPITAL AIR FORCE\n50 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "type": "message",
+   "date": "2021-05-10T18:16:40",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n11-05-2021\nBBMP\nMANIPAL WHITEFIELD COVAXIN\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "type": "message",
+   "date": "2021-05-10T18:19:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560029\n10-05-2021\nBangalore Urban\nNIMHANS Hospitals\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 216,
+   "type": "message",
+   "date": "2021-05-10T18:22:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560029\n11-05-2021\nBangalore Urban\nNIMHANS Hospitals\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 217,
+   "type": "message",
+   "date": "2021-05-10T18:23:51",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\n11-05-2021\nBangalore Urban\nDCHC Leprosy Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 218,
+   "type": "message",
+   "date": "2021-05-10T18:24:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562106\n11-05-2021\nBangalore Urban\nAnekal TH\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 219,
+   "type": "message",
+   "date": "2021-05-10T18:25:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560036\n11-05-2021\nBangalore Urban\nGeneral Hospital K R Puram\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "type": "message",
+   "date": "2021-05-10T18:27:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562157\n11-05-2021\nBangalore Urban\nYelahanka TH.\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "type": "message",
+   "date": "2021-05-10T18:48:47",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n11-05-2021\nBBMP\nC V Raman Hospital Block 2\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 222,
+   "type": "message",
+   "date": "2021-05-10T18:55:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562114\n12-05-2021\nBangalore Rural\nBoys Hihg School Hosakote TH\n50 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "type": "message",
+   "date": "2021-05-10T18:55:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562114\n13-05-2021\nBangalore Rural\nBoys Hihg School Hosakote TH\n50 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "type": "message",
+   "date": "2021-05-10T18:57:08",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562114\n14-05-2021\nBangalore Rural\nBoys Hihg School Hosakote TH\n50 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "type": "message",
+   "date": "2021-05-10T19:48:22",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n11-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "type": "message",
+   "date": "2021-05-10T19:51:29",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n12-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "type": "message",
+   "date": "2021-05-10T19:51:34",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n13-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "type": "message",
+   "date": "2021-05-10T19:52:46",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n14-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "type": "message",
+   "date": "2021-05-10T19:54:22",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560029\n12-05-2021\nBangalore Urban\nNIMHANS Hospitals\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 230,
+   "type": "message",
+   "date": "2021-05-10T19:54:22",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560029\n13-05-2021\nBangalore Urban\nNIMHANS Hospitals\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 231,
+   "type": "message",
+   "date": "2021-05-10T19:54:25",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560029\n14-05-2021\nBangalore Urban\nNIMHANS Hospitals\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 232,
+   "type": "message",
+   "date": "2021-05-10T19:54:25",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560029\n15-05-2021\nBangalore Urban\nNIMHANS Hospitals\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "type": "message",
+   "date": "2021-05-10T19:54:48",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n13-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "message",
+   "date": "2021-05-10T19:55:55",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\n12-05-2021\nBangalore Urban\nDCHC Leprosy Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 235,
+   "type": "message",
+   "date": "2021-05-10T19:55:59",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\n13-05-2021\nBangalore Urban\nDCHC Leprosy Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "type": "message",
+   "date": "2021-05-10T19:56:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\n14-05-2021\nBangalore Urban\nDCHC Leprosy Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 237,
+   "type": "message",
+   "date": "2021-05-10T19:56:01",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560023\n15-05-2021\nBangalore Urban\nDCHC Leprosy Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 238,
+   "type": "message",
+   "date": "2021-05-10T19:56:51",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n12-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "type": "message",
+   "date": "2021-05-10T19:58:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562106\n12-05-2021\nBangalore Urban\nAnekal TH\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 240,
+   "type": "message",
+   "date": "2021-05-10T19:58:27",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562106\n13-05-2021\nBangalore Urban\nAnekal TH\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2021-05-10T19:58:28",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562106\n14-05-2021\nBangalore Urban\nAnekal TH\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "type": "message",
+   "date": "2021-05-10T19:58:45",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562106\n15-05-2021\nBangalore Urban\nAnekal TH\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2021-05-10T19:59:10",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560036\n12-05-2021\nBangalore Urban\nGeneral Hospital K R Puram\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 244,
+   "type": "message",
+   "date": "2021-05-10T19:59:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560036\n13-05-2021\nBangalore Urban\nGeneral Hospital K R Puram\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "type": "message",
+   "date": "2021-05-10T20:00:01",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n11-05-2021\nBBMP\nJayanagar General Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 246,
+   "type": "message",
+   "date": "2021-05-10T20:00:07",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560036\n14-05-2021\nBangalore Urban\nGeneral Hospital K R Puram\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 247,
+   "type": "message",
+   "date": "2021-05-10T20:00:08",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560036\n15-05-2021\nBangalore Urban\nGeneral Hospital K R Puram\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 248,
+   "type": "message",
+   "date": "2021-05-10T20:01:57",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562157\n12-05-2021\nBangalore Urban\nYelahanka TH.\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 249,
+   "type": "message",
+   "date": "2021-05-10T20:01:59",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562157\n13-05-2021\nBangalore Urban\nYelahanka TH.\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 250,
+   "type": "message",
+   "date": "2021-05-10T20:02:16",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562157\n14-05-2021\nBangalore Urban\nYelahanka TH.\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "type": "message",
+   "date": "2021-05-10T20:02:31",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562157\n15-05-2021\nBangalore Urban\nYelahanka TH.\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 252,
+   "type": "message",
+   "date": "2021-05-10T20:02:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562106\n15-05-2021\nBangalore Urban\nAnekal TH\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 253,
+   "type": "message",
+   "date": "2021-05-10T20:28:10",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560020\n11-05-2021\nBBMP\nAPOLLO HOSPITAL SHESHADRIPURAM\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 254,
+   "type": "message",
+   "date": "2021-05-10T20:46:44",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560017\n11-05-2021\nBBMP\nManipal Hospital Covaxin\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 255,
+   "type": "message",
+   "date": "2021-05-10T20:49:46",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560017\n11-05-2021\nBBMP\nManipal Hospital Covaxin\n14 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 256,
+   "type": "message",
+   "date": "2021-05-10T21:00:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\n11-05-2021\nBangalore Rural\nDevanahalli TH COVIDSHIELD\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 257,
+   "type": "message",
+   "date": "2021-05-10T22:29:27",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n11-05-2021\nBBMP\nVictoria Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 258,
+   "type": "message",
+   "date": "2021-05-10T22:29:29",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n12-05-2021\nBBMP\nVictoria Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 259,
+   "type": "message",
+   "date": "2021-05-10T22:29:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n13-05-2021\nBBMP\nVictoria Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 260,
+   "type": "message",
+   "date": "2021-05-10T22:29:31",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n14-05-2021\nBBMP\nVictoria Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 261,
+   "type": "message",
+   "date": "2021-05-10T22:29:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n15-05-2021\nBBMP\nVictoria Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 262,
+   "type": "message",
+   "date": "2021-05-10T22:29:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n16-05-2021\nBBMP\nVictoria Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 263,
+   "type": "message",
+   "date": "2021-05-10T22:29:35",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n17-05-2021\nBBMP\nVictoria Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 264,
+   "type": "message",
+   "date": "2021-05-10T22:30:10",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n11-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 265,
+   "type": "message",
+   "date": "2021-05-10T22:30:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n12-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 266,
+   "type": "message",
+   "date": "2021-05-10T22:30:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n13-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 267,
+   "type": "message",
+   "date": "2021-05-10T22:30:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n14-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 268,
+   "type": "message",
+   "date": "2021-05-10T22:30:14",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n15-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 269,
+   "type": "message",
+   "date": "2021-05-10T22:30:15",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n16-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 270,
+   "type": "message",
+   "date": "2021-05-10T22:30:16",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n17-05-2021\nBBMP\nK C GH Nurshing School 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 271,
+   "type": "message",
+   "date": "2021-05-10T22:30:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n13-05-2021\nBBMP\nVictoria Hospital 18\n127 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 272,
+   "type": "message",
+   "date": "2021-05-10T22:30:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n12-05-2021\nBBMP\nVictoria Hospital 18\n91 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 273,
+   "type": "message",
+   "date": "2021-05-10T22:30:31",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n14-05-2021\nBBMP\nVictoria Hospital 18\n128 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 274,
+   "type": "message",
+   "date": "2021-05-10T22:30:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n15-05-2021\nBBMP\nVictoria Hospital 18\n106 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 275,
+   "type": "message",
+   "date": "2021-05-10T22:30:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n16-05-2021\nBBMP\nVictoria Hospital 18\n121 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 276,
+   "type": "message",
+   "date": "2021-05-10T22:30:35",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n17-05-2021\nBBMP\nVictoria Hospital 18\n127 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 277,
+   "type": "message",
+   "date": "2021-05-10T22:30:55",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560036\n12-05-2021\nBangalore Urban\nGeneral Hospital K R Puram\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 278,
+   "type": "message",
+   "date": "2021-05-10T22:31:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n11-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 279,
+   "type": "message",
+   "date": "2021-05-10T22:31:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n12-05-2021\nBBMP\nK C GH Nurshing School 18\n82 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 280,
+   "type": "message",
+   "date": "2021-05-10T22:31:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n12-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 281,
+   "type": "message",
+   "date": "2021-05-10T22:31:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n13-05-2021\nBBMP\nK C GH Nurshing School 18\n64 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 282,
+   "type": "message",
+   "date": "2021-05-10T22:31:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n13-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 283,
+   "type": "message",
+   "date": "2021-05-10T22:31:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n14-05-2021\nBBMP\nK C GH Nurshing School 18\n57 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 284,
+   "type": "message",
+   "date": "2021-05-10T22:31:17",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n15-05-2021\nBBMP\nK C GH Nurshing School 18\n104 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 285,
+   "type": "message",
+   "date": "2021-05-10T22:31:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n16-05-2021\nBBMP\nK C GH Nurshing School 18\n92 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 286,
+   "type": "message",
+   "date": "2021-05-10T22:31:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n17-05-2021\nBBMP\nK C GH Nurshing School 18\n120 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 287,
+   "type": "message",
+   "date": "2021-05-10T22:31:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n14-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 288,
+   "type": "message",
+   "date": "2021-05-10T22:31:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n15-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 289,
+   "type": "message",
+   "date": "2021-05-10T22:31:25",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n16-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 290,
+   "type": "message",
+   "date": "2021-05-10T22:31:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n17-05-2021\nBBMP\nBowring Hospital Covishield 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 291,
+   "type": "message",
+   "date": "2021-05-10T22:31:58",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n12-05-2021\nBBMP\nJayanagar General Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 292,
+   "type": "message",
+   "date": "2021-05-10T22:31:58",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n13-05-2021\nBBMP\nJayanagar General Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 293,
+   "type": "message",
+   "date": "2021-05-10T22:32:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n14-05-2021\nBBMP\nJayanagar General Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 294,
+   "type": "message",
+   "date": "2021-05-10T22:32:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n11-05-2021\nBBMP\nBowring Hospital Covishield 18\n9 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 295,
+   "type": "message",
+   "date": "2021-05-10T22:32:00",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n15-05-2021\nBBMP\nJayanagar General Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 296,
+   "type": "message",
+   "date": "2021-05-10T22:32:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n16-05-2021\nBBMP\nJayanagar General Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 297,
+   "type": "message",
+   "date": "2021-05-10T22:32:05",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n17-05-2021\nBBMP\nJayanagar General Hospital 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 298,
+   "type": "message",
+   "date": "2021-05-10T22:32:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n12-05-2021\nBBMP\nBowring Hospital Covishield 18\n46 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 299,
+   "type": "message",
+   "date": "2021-05-10T22:32:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n13-05-2021\nBBMP\nBowring Hospital Covishield 18\n25 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 300,
+   "type": "message",
+   "date": "2021-05-10T22:32:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n15-05-2021\nBBMP\nBowring Hospital Covishield 18\n38 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 301,
+   "type": "message",
+   "date": "2021-05-10T22:32:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n14-05-2021\nBBMP\nBowring Hospital Covishield 18\n24 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 302,
+   "type": "message",
+   "date": "2021-05-10T22:32:18",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\n11-05-2021\nBangalore Rural\nDevanahalli TH COVIDSHIELD\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 303,
+   "type": "message",
+   "date": "2021-05-10T22:32:19",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n16-05-2021\nBBMP\nBowring Hospital Covishield 18\n54 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 304,
+   "type": "message",
+   "date": "2021-05-10T22:32:20",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560001\n17-05-2021\nBBMP\nBowring Hospital Covishield 18\n50 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 305,
+   "type": "message",
+   "date": "2021-05-10T22:32:39",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n11-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 306,
+   "type": "message",
+   "date": "2021-05-10T22:32:42",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n12-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 307,
+   "type": "message",
+   "date": "2021-05-10T22:32:44",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n13-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 308,
+   "type": "message",
+   "date": "2021-05-10T22:32:47",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n14-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 309,
+   "type": "message",
+   "date": "2021-05-10T22:32:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n15-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 310,
+   "type": "message",
+   "date": "2021-05-10T22:32:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n16-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 311,
+   "type": "message",
+   "date": "2021-05-10T22:32:58",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n17-05-2021\nBBMP\nC V Raman GH 18\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 312,
+   "type": "message",
+   "date": "2021-05-10T22:33:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560041\n17-05-2021\nBBMP\nJayanagar General Hospital 18\n112 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 313,
+   "type": "message",
+   "date": "2021-05-10T22:33:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560003\n16-05-2021\nBBMP\nK C GH Nurshing School 18\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 314,
+   "type": "message",
+   "date": "2021-05-10T22:33:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560002\n14-05-2021\nBBMP\nVictoria Hospital 18\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 315,
+   "type": "message",
+   "date": "2021-05-10T22:33:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562123\n11-05-2021\nBangalore Rural\n18 To 44 TH Nelamangala\n6 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 316,
+   "type": "message",
+   "date": "2021-05-10T22:33:55",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n17-05-2021\nBBMP\nC V Raman GH 18\n86 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 317,
+   "type": "message",
+   "date": "2021-05-10T22:34:09",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\n11-05-2021\nBBMP\nESIC MC And Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 318,
+   "type": "message",
+   "date": "2021-05-10T22:34:10",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\n12-05-2021\nBBMP\nESIC MC And Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 319,
+   "type": "message",
+   "date": "2021-05-10T22:34:12",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\n13-05-2021\nBBMP\nESIC MC And Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 320,
+   "type": "message",
+   "date": "2021-05-10T22:34:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\n15-05-2021\nBBMP\nESIC MC And Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 321,
+   "type": "message",
+   "date": "2021-05-10T22:34:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560010\n16-05-2021\nBBMP\nESIC MC And Hospital\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 322,
+   "type": "message",
+   "date": "2021-05-11T00:10:48",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\n11-05-2021\nBangalore Rural\nDoddaballapura TH\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 323,
+   "type": "message",
+   "date": "2021-05-11T00:11:48",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\n11-05-2021\nBangalore Rural\nDoddaballapura TH\n115 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 324,
+   "type": "message",
+   "date": "2021-05-11T08:40:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\n11-05-2021\nBBMP\nApollo Hospital-JAYANAGAR\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 325,
+   "type": "message",
+   "date": "2021-05-11T10:13:13",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560008\n11-05-2021\nBBMP\nC V Raman Hospital Block 2\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 326,
+   "type": "message",
+   "date": "2021-05-11T15:59:09",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\n11-05-2021\nBangalore Rural\nAkash Hospital\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 327,
+   "type": "message",
+   "date": "2021-05-11T16:02:45",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560034\n11-05-2021\nBBMP\nAPOLLO SPECTRA HOSPITAL-1\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 328,
+   "type": "message",
+   "date": "2021-05-11T17:00:33",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\n12-05-2021\nBBMP\nManipal Clinic\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 329,
+   "type": "message",
+   "date": "2021-05-11T20:04:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n12-05-2021\nBBMP\nMANIPAL WHITEFIELD COVAXIN\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 330,
+   "type": "message",
+   "date": "2021-05-11T20:46:09",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560020\n12-05-2021\nBBMP\nAPOLLO HOSPITAL SHESHADRIPURAM\n200 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 331,
+   "type": "message",
+   "date": "2021-05-12T04:00:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\n12-05-2021\nBangalore Rural\nDevanahalli TH COVIDSHIELD\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 332,
+   "type": "message",
+   "date": "2021-05-12T04:01:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "562110\n12-05-2021\nBangalore Rural\nDevanahalli TH COVIDSHIELD\n134 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 333,
+   "type": "message",
+   "date": "2021-05-12T04:02:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\n12-05-2021\nBangalore Rural\nDoddaballapura TH\n150 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 334,
+   "type": "message",
+   "date": "2021-05-12T04:03:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "561203\n12-05-2021\nBangalore Rural\nDoddaballapura TH\n40 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 335,
+   "type": "message",
+   "date": "2021-05-12T07:44:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\n12-05-2021\nBBMP\nApollo Hospital-JAYANAGAR\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 336,
+   "type": "message",
+   "date": "2021-05-12T16:03:53",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560030\n13-05-2021\nBBMP\nAPOLLO CRADLE - Koramangala\n51 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 337,
+   "type": "message",
+   "date": "2021-05-12T16:05:06",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. APOLLO CRADLE - Koramangala (South) - Pin: 560030. Vaccine: COVISHIELD. \n36 slots are available on May 13\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 338,
+   "type": "message",
+   "date": "2021-05-12T17:03:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\n13-05-2021\nBBMP\nManipal Clinic\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 339,
+   "type": "message",
+   "date": "2021-05-12T17:17:57",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Hey guys! We created a Google form so that everyone can leave their experience getting vaccinated. \nPlease try to fill out the form so that it will help other people!\n",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    }
+   ]
+  },
+  {
+   "id": 340,
+   "type": "message",
+   "date": "2021-05-12T17:47:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560034\n12-05-2021\nBBMP\nAPOLLO SPECTRA HOSPITAL-1\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 342,
+   "type": "message",
+   "date": "2021-05-12T18:25:37",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560034\n13-05-2021\nBBMP\nAPOLLO SPECTRA HOSPITAL-1\n100 slots available for 18 to 44\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 343,
+   "type": "message",
+   "date": "2021-05-12T18:55:34",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n13-05-2021\nBBMP\nMANIPAL WHITEFIELD COVAXIN\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 345,
+   "type": "message",
+   "date": "2021-05-12T22:29:39",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Please note this does NOT apply to private hospitals. It only applies to government hospitals.\n\n",
+    {
+     "type": "link",
+     "text": "https://twitter.com/DHFWKA/status/1392520802910625794"
+    }
+   ]
+  },
+  {
+   "id": 346,
+   "type": "message",
+   "date": "2021-05-12T23:37:03",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560037\n13-05-2021\nBBMP\nApollo Cradle P3\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 347,
+   "type": "message",
+   "date": "2021-05-12T23:38:04",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "Vaccination centers for 18-44 group: \n1. Apollo Cradle P3 (Mahadevapura) - Pin: 560037. Vaccine: COVISHIELD. \n97 slots are available on May 13\n\nCoWin: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    }
+   ]
+  },
+  {
+   "id": 348,
+   "type": "message",
+   "date": "2021-05-13T07:23:27",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\n13-05-2021\nBBMP\nApollo Hospital-JAYANAGAR\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 349,
+   "type": "message",
+   "date": "2021-05-13T09:26:29",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560020\n13-05-2021\nBBMP\nAPOLLO HOSPITAL SHESHADRIPURAM\n200 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 351,
+   "type": "message",
+   "date": "2021-05-13T10:05:19",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n13-05-2021\nBBMP\nAPOLLO MEDICAL CENTER P3\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "type": "message",
+   "date": "2021-05-13T10:12:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n13-05-2021\nBBMP\nAPOLLO MEDICAL CENTER P3\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 353,
+   "type": "message",
+   "date": "2021-05-13T10:13:30",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n13-05-2021\nBBMP\nAPOLLO MEDICAL CENTER P3\n78 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 355,
+   "type": "message",
+   "date": "2021-05-13T10:19:52",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n13-05-2021\nBBMP\nAPOLLO MEDICAL CENTER P3\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 357,
+   "type": "message",
+   "date": "2021-05-13T17:53:40",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560078\n14-05-2021\nBBMP\nManipal Clinic\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 358,
+   "type": "message",
+   "date": "2021-05-13T19:12:22",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n14-05-2021\nBBMP\nMANIPAL WHITEFIELD COVAXIN\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 359,
+   "type": "message",
+   "date": "2021-05-14T07:30:26",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\n14-05-2021\nBBMP\nApollo Hospital-JAYANAGAR\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 360,
+   "type": "message",
+   "date": "2021-05-14T09:07:32",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560020\n14-05-2021\nBBMP\nAPOLLO HOSPITAL SHESHADRIPURAM\n200 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 361,
+   "type": "message",
+   "date": "2021-05-14T09:08:56",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560020\n18-05-2021\nBBMP\nAPOLLO HOSPITAL SHESHADRIPURAM\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 362,
+   "type": "message",
+   "date": "2021-05-14T21:02:11",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560066\n15-05-2021\nBBMP\nMANIPAL WHITEFIELD COVAXIN\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 363,
+   "type": "message",
+   "date": "2021-05-15T07:29:54",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560011\n15-05-2021\nBBMP\nApollo Hospital-JAYANAGAR\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  },
+  {
+   "id": 364,
+   "type": "message",
+   "date": "2021-05-15T07:33:56",
+   "from": "U45 Bengaluru BBMP",
+   "from_id": "channel1243933312",
+   "text": [
+    "560020\n15-05-2021\nBBMP\nAPOLLO HOSPITAL SHESHADRIPURAM\n100 slots available for 18 to 44\nPlease fill out the feedback form if you got vaccinated here ",
+    {
+     "type": "link",
+     "text": "https://t.co/BSCEqEFAxM?amp=1"
+    },
+    "\n\nCoWIN: ",
+    {
+     "type": "link",
+     "text": "https://selfregistration.cowin.gov.in"
+    },
+    "\n\nTwitter: ",
+    {
+     "type": "mention",
+     "text": "@BloreVaccine"
+    }
+   ]
+  }
+ ]
+}
