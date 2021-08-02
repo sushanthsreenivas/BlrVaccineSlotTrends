@@ -1,4 +1,4 @@
-# BlrVaccineSlotTrends
+# Bangalore: Vaccination Slot Opening Insights
 
 The Indian Government opened the vaccination drive for people older than 18 years on the 1st of May. Given the huge shortage of vaccines and the vast number of people trying to get a slot on the CoWin portal, the experience has been far from ideal. However, people have rightly used their technology prowess to build bots that send alerts as soon as hospitals open up slots on Twitter/Telegram. While there are thousands of people getting these alerts, less than 5% of the people actually successfully book a slot. This leaves the rest frustrated considering the amount of time they have spent in trying to get a slot.
 
